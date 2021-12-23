@@ -144,7 +144,7 @@ if __name__ == "__main__" :
 
     import sys
 
-    dir = '/home/nano/workspace/models/'
+    dir = '/home/nano/workspace/models/lane-det-cnn/'
     file = 'lane_follow_cnn.pth'
 
     epochs = 150

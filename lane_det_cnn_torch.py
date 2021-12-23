@@ -13,7 +13,7 @@ import time
 import atexit
 
 device = torch.device('cuda')
-working_dir = '/home/nano/workspace/models/'
+working_dir = '/home/nano/workspace/models/lane-det-cnn/'
 
 class cs_nvidia_model(torch.nn.Module):
     def __init__(self):
